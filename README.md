@@ -9,6 +9,11 @@
 
 ## Pricing 🔖💵
 > July 24 Rate
+### US BASED
+* $0.40 / 1000 Followers > minimum order 75000 Followers/ $30.
+* $100 / Unli Boost For 1 Week. Limited to (0/2) Users | Reseller
+> Reseller can dp $60 to test
+### PH BASED
 * &#8369;20. 00 / 1000 Followers > minimum order 75000 Followers/ &#8369;1,500.
 * &#8369;5,000.00 / Unli Boost For 1 Week. Limited to (0/2) Users | Reseller
 > Reseller can dp  &#8369;3,000.00 to test
