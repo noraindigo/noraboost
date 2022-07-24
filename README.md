@@ -14,7 +14,7 @@
 * $100 / Unli Boost For 1 Week. Limited to (0/2) Users | Reseller
 > Reseller can dp $60 to test
 ### PH BASED
-* &#8369;20. 00 / 1000 Followers > minimum order 75000 Followers/ &#8369;1,500.
+* &#8369;20. 00 / 1000 Followers > minimum order 50000 Followers/ &#8369;1,000.00
 * &#8369;5,000.00 / Unli Boost For 1 Week. Limited to (0/2) Users | Reseller
 > Reseller can dp  &#8369;3,000.00 to test
 
@@ -31,7 +31,7 @@
 ### _Nora Indigo_ ###
 > Contact
 * noraindigo.dev@yahoo.com
-* I do accept email for now..
+* [Facebook](https://www.facebook.com/messages/t/100083823999404)
 * discord server under development
 ## License 🔰
 **MIT**
