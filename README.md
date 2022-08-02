@@ -10,15 +10,13 @@
 ## Pricing 🔖💵
 > July 24 Rate
 ### US BASED
-* $0.40 / 1000 Followers > minimum order 75000 Followers/ $30.
+* $1 / 1000 Followers > minimum order 10000 Followers/ $10.
 * $100 / Unli Boost For 1 Week. Limited to (0/2) Users | Reseller
-> Reseller can dp $60 to test
 ### PH BASED
-* &#8369;20. 00 / 1000 Followers > minimum order 50000 Followers/ &#8369;1,000.00
+* &#8369;55.00 / 1000 Followers > minimum order 50000 Followers/ &#8369;1,000.00
 * &#8369;5,000.00 / Unli Boost For 1 Week. Limited to (0/2) Users | Reseller
-> Reseller can dp  &#8369;3,000.00 to test
 
-> Strictly 1 IP per api/iser
+> Strictly 1 IP per api/user
 
 > Reseller can't resell their access
 
@@ -26,6 +24,7 @@
 
 ## Payment 
 * Gcash
+* USDT
 
 ## Author📝
 ### _Nora Indigo_ ###
